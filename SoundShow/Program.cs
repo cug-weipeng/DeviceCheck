@@ -97,6 +97,7 @@ namespace SoundShow
             eastShow.FireHandlerEvent += () => { Console.WriteLine("夫起大户:了不得了起大火了，老婆！！"); };
             eastShow.FireHandlerEvent += () => { Console.WriteLine("妇亦起大呼:别傻叫了，快跑！！"); };
 
+
             Console.ReadLine();
 
         }
